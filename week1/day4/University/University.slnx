@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="University.Core/University.Core.csproj" Id="9e157b57-5b70-4d35-ba07-face532b70b2" />
+  <Project Path="University.Data/University.Data.csproj" Id="d5b92b15-e124-47cd-9ce5-822efb3ee521" />
+  <Project Path="University/University.API.csproj" />
+</Solution>
