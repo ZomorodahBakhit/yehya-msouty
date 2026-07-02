@@ -5,12 +5,11 @@ using System.Text;
 
 namespace University.Core.Forms
 {
-    public class UpdateForm
+    public class UpdateCourse
     {
-   
-        public string? Name{ get; set; } = null!;
- 
-        public string? Email { get; set; } = null!;
+        public string? Name { get; set; } = null!;
+       
+        public int? Weight { get; set; } = null!;
     }
 }
 

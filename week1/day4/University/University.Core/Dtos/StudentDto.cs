@@ -1,7 +1,6 @@
-﻿
-namespace University.Core
+﻿namespace University.Core.Dtos
 {
-    public class StudentDTO
+    public class StudentDto
     {
         public int Id { get; set; }
         public string Name { get; set; } = null!;
